@@ -8,5 +8,5 @@ Arbit Rust Cheat\n
 Açık kaynak hile satın almayın ve dolandırılmayın\n
 
 LINKS:\n
-https://www.youtube.com/@arbitsoftware\n
+https://www.youtube.com/@arbitsoftware 
 https://rusthile.com/
