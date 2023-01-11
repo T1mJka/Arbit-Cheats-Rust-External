@@ -1,12 +1,12 @@
 
-EN:
-Arbit Rust Cheat
-Don't buy the open source cheat and don't get scammed
+EN:\n
+Arbit Rust Cheat\n
+Don't buy the open source cheat and don't get scammed\n
 
-TR:
-Arbit Rust Cheat
-Açık kaynak hile satın almayın ve dolandırılmayın
+TR:\n
+Arbit Rust Cheat\n
+Açık kaynak hile satın almayın ve dolandırılmayın\n
 
-LINKS:
-https://www.youtube.com/@arbitsoftware
+LINKS:\n
+https://www.youtube.com/@arbitsoftware\n
 https://rusthile.com/
